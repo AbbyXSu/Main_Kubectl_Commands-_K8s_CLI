@@ -1,4 +1,4 @@
-# Main_Kubectl_Commands-_K8s_CLI
+# Main_Kubectl_Commands_K8s_CLI
 ## Install hyperhit and minikube
 ```
 brew update
